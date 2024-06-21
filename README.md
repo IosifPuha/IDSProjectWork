@@ -1,2 +1,2 @@
 Exploratory Data Analysis of "Google PlayStore Apps" Dataset done in Python/Jupyter Notebook within the Introduction to Data Science course at UniGe (University of Genova).
-Inside this notebook you'll find an example of a complete EDA on a dataset of medium size as well as the application of supervised machine learning models (such as linear regression) and supervised ones (such as clustering to discover patterns in the data).
+Inside this notebook you'll find an example of a complete EDA on a dataset of medium size as well as the application of supervised machine learning models (such as linear regression) and unsupervised ones (such as clustering to discover patterns in the data).
